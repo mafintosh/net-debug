@@ -4,6 +4,8 @@ Debug ECONNRESET and friends by adding host:port to the stack trace
 
 	npm install net-debug
 
+[![build status](https://secure.travis-ci.org/mafintosh/net-debug.png)](http://travis-ci.org/mafintosh/net-debug)
+
 ## Usage
 
 Simply require `net-debug` in the top of program
