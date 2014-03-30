@@ -1,0 +1,5 @@
+{
+  "name": "net-debug",
+  "version": "0.0.0",
+  "description": "Debug ECONNRESET and friends by adding host and port to the stack"
+}
