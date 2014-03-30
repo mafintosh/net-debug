@@ -1,12 +1,12 @@
 {
   "name": "net-debug",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Debug ECONNRESET and friends by adding host and port to the stack",
   "repository": "mafintosh/net-debug",
   "devDependencies": {
     "tape": "^2.12.1"
   },
   "scripts": {
-  	"test": "tape test.js"
+    "test": "tape test.js"
   }
 }
