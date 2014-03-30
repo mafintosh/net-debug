@@ -24,6 +24,8 @@ Error: connect ECONNREFUSED (127.0.0.1:42424)
 `net-debug` works by monkey patching `emit` on tcp sockets and intercepting error events and adding the host and port to the message.
 Performance impact should be very minimal.
 
+If (for some reason) you want to disable the debug on runtime call `netDebug.disable()`
+
 ## License
 
 MIT
