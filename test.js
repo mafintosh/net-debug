@@ -1,4 +1,4 @@
-var netDebug = require('net-debug');
+var netDebug = require('./');
 var net = require('net');
 var tape = require('tape');
 
